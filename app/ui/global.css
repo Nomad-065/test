@@ -16,3 +16,16 @@ input[type='number']::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
+
+.note-popup {
+  background-color: #ebf8ff; /* Light blue background */
+  border: 1px solid #bee3f8; /* Light blue border */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Strong shadow */
+  padding: 1.5rem; /* Padding */
+  border-radius: 0.5rem; /* Rounded corners */
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+}
