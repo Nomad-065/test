@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+to run, first ensure node js is installed
+next run the command "npm install" so that it will download all the dependencies
+to view the GUI run "npm run dev" it will host the GUI at http://localhost:3000 on browser
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+you can find the page by clicking on the login buttons or directly navigating to http://localhost:3000/dashboard
